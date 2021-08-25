@@ -21,6 +21,8 @@ Follow these steps to deploy the Microsoft Learn LTI tool:
 2. Enter in the command in the Git console
    * `git clone https://github.com/microsoft/Learn-LTI.git`
 
+Note: Users who aim to set up Microsoft Learn for integration with the Open edX LMS (versions lilac.1/2) should clone the released version 'edx.1' using command `git clone https://github.com/microsoft/Learn-LTI.git #TAG = edx.1`
+
 You have now cloned the repo.
 
 ## After Cloning
